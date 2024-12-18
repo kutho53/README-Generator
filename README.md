@@ -17,6 +17,7 @@
 
   ## Usage
    When prompted for information about my application, the information inputed will then generate a high-quality readme.md that will be structured using Markup.
+   Demo video: https://youtu.be/mX_uIAr_T3k
 
   
   ## License
